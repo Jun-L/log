@@ -1,4 +1,4 @@
-my log
+My log
 ======
 
 > The log of everyday's work, study, entertainment and etc.
